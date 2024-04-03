@@ -22,7 +22,7 @@ This project is a Full Stack CRUD (Create, Read, Update, Delete) application bui
 
 ## Libraries and Tools Used:
 - **Back End:** Java, Spring Boot, Spring Data JPA, MySQL
-- **Front End:** Javascript, React, React Hooks
+- **Front End:** Javascript, React, React Hooks, Bootstrap
 
 ## Usage:
 1. Clone the repository:
