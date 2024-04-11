@@ -20,6 +20,16 @@ This project is a Full Stack CRUD (Create, Read, Update, Delete) application bui
 3. **Integration:** Front end and back end are integrated using APIs created in Postman, ensuring smooth communication between the two layers.
 4. **Testing and Deployment:** The application is thoroughly tested to ensure functionality and reliability before deployment to production environment.
 
+## Screenshots
+
+![alt text](screenshot1.png)
+
+![alt text](screenshot2.png)
+
+![alt text](screenshot3.png)
+
+![alt text](screenshot4.png)
+
 ## Libraries and Tools Used:
 - **Back End:** Java, Spring Boot, Spring Data JPA, MySQL
 - **Front End:** Javascript, React, React Hooks, Bootstrap
